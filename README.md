@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently Studying Computer Science at [UNICAP](https://portal.unicap.br/)
  
-- 🌱 I’m currently learning C 
+- 🌱 I’m currently learning JAVA
 
